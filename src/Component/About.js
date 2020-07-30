@@ -10,7 +10,6 @@ class About extends React.Component{
                 Branches help us work with teams;
                 &nbsp;
                 maintaining the integrity of our
-                &nbsp;
                 commit History!
             </p>
         );
